@@ -1,9 +1,9 @@
 body {
-    background-color: DarkViolet;
+    background-color: #eaf6f6;
 }
 
 hr {
-    background-color: DarkViolet;
+    background-color: #eaf6f6;
     border-style: dotted none none;
     border-width: 10px;
     border-color: #66bfbf;
@@ -12,7 +12,7 @@ hr {
 }
 
 .HELLO {
-    color: white;
+    color: #66bfbf;
 }
 
 #contact {
