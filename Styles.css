@@ -3,7 +3,7 @@ body {
 }
 
 hr {
-    background-color: white;
+    background-color: DarkViolet;
     border-style: dotted none none;
     border-width: 10px;
     border-color: #66bfbf;
@@ -12,7 +12,7 @@ hr {
 }
 
 .HELLO {
-    color: #66bfbf;
+    color: white;
 }
 
 #contact {
